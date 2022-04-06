@@ -116,6 +116,9 @@ ul{
       
    }
 
+    h1{
+        line-height: 0px;
+    }
     ul{
         
         display: none;
